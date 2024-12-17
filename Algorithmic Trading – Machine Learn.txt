@@ -1,0 +1,13 @@
+Algorithmic Trading – Machine Learning & Quant Strategies 
+
+Schaum's Outlines: Programming with C++
+https://tbc-python.fossee.in/book-details/157/
+
+
+
+High-Frequency Trading
+Kaufman’s Adaptive Moving Average
+
+
+https://python-programming.quantecon.org/intro.html
+
